@@ -13,6 +13,10 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "Primera linea del proyecto";
+        echo "Segunda linea del proyecto";
+        $hola="Hola";
+        
+        echo $hola;
         ?>
     </body>
 </html>
